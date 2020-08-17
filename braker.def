@@ -2,7 +2,7 @@ BootStrap: docker
 From: ubuntu:latest
 
 %labels
-	Author:dryuqi@gmail.com
+	Author:Qi Yu (dryuqi@gmail.com)
 %files
         # Downloading GeneMark-ES first, GeneMark requires license key for downloading.
         gmes_linux_64 /opt
